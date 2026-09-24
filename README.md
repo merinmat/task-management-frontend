@@ -4,7 +4,7 @@ A full-stack task management application built with React and Node.js. Users can
 
 ## 🚀 Live Demo
 
-[Live Demo](https://task-management-frontend-chi-lemon.vercel.app/)
+[Live Demo](https://task-management-frontend-2ybt9a324-merins-projects.vercel.app/)
 
 ## ✨ Features
 
