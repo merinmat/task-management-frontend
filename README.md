@@ -114,11 +114,11 @@ Task endpoints require authentication.
 
 ### Login
 
-*Add screenshot here*
+![Login](./screenshots/login.png)
 
 ### Dashboard
 
-*Add screenshot here*
+![Dashboard](./screenshots/dashboard.png)
 
 ## 💻 Running Locally
 
